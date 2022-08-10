@@ -1,0 +1,1 @@
+# xxh-shell-nushell
